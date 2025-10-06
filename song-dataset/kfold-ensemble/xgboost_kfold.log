@@ -1,0 +1,27 @@
+2025-09-27 16:49:54,093 - INFO - Training fold 1/5...
+2025-09-27 16:49:54,172 - INFO - [0]	train-rmse:0.48043	valid-rmse:0.48195
+2025-09-27 16:49:54,412 - INFO - [50]	train-rmse:0.46109	valid-rmse:0.47993
+2025-09-27 16:49:54,547 - INFO - [93]	train-rmse:0.45011	valid-rmse:0.48062
+2025-09-27 16:49:54,574 - INFO - Training fold 2/5...
+2025-09-27 16:49:54,627 - INFO - [0]	train-rmse:0.48044	valid-rmse:0.48172
+2025-09-27 16:49:54,782 - INFO - [50]	train-rmse:0.46158	valid-rmse:0.47923
+2025-09-27 16:49:54,905 - INFO - [98]	train-rmse:0.45025	valid-rmse:0.48009
+2025-09-27 16:49:54,925 - INFO - Training fold 3/5...
+2025-09-27 16:49:54,979 - INFO - [0]	train-rmse:0.48048	valid-rmse:0.48138
+2025-09-27 16:49:55,129 - INFO - [50]	train-rmse:0.46102	valid-rmse:0.47816
+2025-09-27 16:49:55,298 - INFO - [100]	train-rmse:0.44880	valid-rmse:0.47844
+2025-09-27 16:49:55,360 - INFO - [116]	train-rmse:0.44498	valid-rmse:0.47876
+2025-09-27 16:49:55,384 - INFO - Training fold 4/5...
+2025-09-27 16:49:55,431 - INFO - [0]	train-rmse:0.48078	valid-rmse:0.48053
+2025-09-27 16:49:55,580 - INFO - [50]	train-rmse:0.46191	valid-rmse:0.47761
+2025-09-27 16:49:55,725 - INFO - [100]	train-rmse:0.44974	valid-rmse:0.47783
+2025-09-27 16:49:55,782 - INFO - [115]	train-rmse:0.44636	valid-rmse:0.47784
+2025-09-27 16:49:55,813 - INFO - Training fold 5/5...
+2025-09-27 16:49:55,868 - INFO - [0]	train-rmse:0.48101	valid-rmse:0.47965
+2025-09-27 16:49:56,012 - INFO - [50]	train-rmse:0.46217	valid-rmse:0.47765
+2025-09-27 16:49:56,127 - INFO - [89]	train-rmse:0.45242	valid-rmse:0.47795
+2025-09-27 16:49:56,150 - INFO - XGBoost CV RMSE:
+2025-09-27 16:49:56,151 - INFO - 0.4790682250299897
+2025-09-27 16:49:56,151 - INFO - Training RandomForest on full data...
+2025-09-27 16:50:12,965 - INFO - Predictions saved to song-dataset/xgboost-ensemble.csv
+2025-09-27 16:50:12,966 - INFO - Hyperparameters saved to song-dataset/xgboost-ensemble-params.txt

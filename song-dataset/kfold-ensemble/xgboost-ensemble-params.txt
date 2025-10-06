@@ -1,0 +1,11 @@
+objective: reg:squarederror
+learning_rate: 0.05
+max_depth: 6
+subsample: 0.8
+colsample_bytree: 0.8
+seed: 42
+eval_metric: rmse
+RandomForestRegressor:
+n_estimators: 300
+max_depth: 12
+random_state: 42

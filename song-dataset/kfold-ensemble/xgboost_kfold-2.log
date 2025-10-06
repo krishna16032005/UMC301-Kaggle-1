@@ -1,0 +1,55 @@
+2025-09-27 16:56:47,695 - INFO - Training fold 1/5...
+2025-09-27 16:56:47,757 - INFO - [0]	train-rmse:0.48096	valid-rmse:0.48210
+2025-09-27 16:56:47,945 - INFO - [50]	train-rmse:0.47731	valid-rmse:0.48073
+2025-09-27 16:56:48,136 - INFO - [100]	train-rmse:0.47457	valid-rmse:0.48005
+2025-09-27 16:56:48,264 - INFO - [150]	train-rmse:0.47228	valid-rmse:0.47966
+2025-09-27 16:56:48,392 - INFO - [200]	train-rmse:0.47021	valid-rmse:0.47948
+2025-09-27 16:56:48,510 - INFO - [250]	train-rmse:0.46831	valid-rmse:0.47931
+2025-09-27 16:56:48,624 - INFO - [300]	train-rmse:0.46655	valid-rmse:0.47925
+2025-09-27 16:56:48,745 - INFO - [350]	train-rmse:0.46499	valid-rmse:0.47927
+2025-09-27 16:56:48,767 - INFO - [360]	train-rmse:0.46469	valid-rmse:0.47929
+2025-09-27 16:56:48,821 - INFO - Training fold 2/5...
+2025-09-27 16:56:48,866 - INFO - [0]	train-rmse:0.48101	valid-rmse:0.48186
+2025-09-27 16:56:48,996 - INFO - [50]	train-rmse:0.47732	valid-rmse:0.48052
+2025-09-27 16:56:49,111 - INFO - [100]	train-rmse:0.47457	valid-rmse:0.47984
+2025-09-27 16:56:49,236 - INFO - [150]	train-rmse:0.47230	valid-rmse:0.47949
+2025-09-27 16:56:49,473 - INFO - [200]	train-rmse:0.47032	valid-rmse:0.47927
+2025-09-27 16:56:49,601 - INFO - [250]	train-rmse:0.46846	valid-rmse:0.47916
+2025-09-27 16:56:49,686 - INFO - [287]	train-rmse:0.46730	valid-rmse:0.47917
+2025-09-27 16:56:49,727 - INFO - Training fold 3/5...
+2025-09-27 16:56:49,772 - INFO - [0]	train-rmse:0.48106	valid-rmse:0.48165
+2025-09-27 16:56:49,904 - INFO - [50]	train-rmse:0.47747	valid-rmse:0.47993
+2025-09-27 16:56:50,035 - INFO - [100]	train-rmse:0.47471	valid-rmse:0.47905
+2025-09-27 16:56:50,158 - INFO - [150]	train-rmse:0.47246	valid-rmse:0.47851
+2025-09-27 16:56:50,273 - INFO - [200]	train-rmse:0.47043	valid-rmse:0.47814
+2025-09-27 16:56:50,384 - INFO - [250]	train-rmse:0.46865	valid-rmse:0.47789
+2025-09-27 16:56:50,506 - INFO - [300]	train-rmse:0.46699	valid-rmse:0.47776
+2025-09-27 16:56:50,622 - INFO - [350]	train-rmse:0.46545	valid-rmse:0.47771
+2025-09-27 16:56:50,735 - INFO - [400]	train-rmse:0.46391	valid-rmse:0.47767
+2025-09-27 16:56:50,804 - INFO - [432]	train-rmse:0.46296	valid-rmse:0.47766
+2025-09-27 16:56:50,863 - INFO - Training fold 4/5...
+2025-09-27 16:56:50,909 - INFO - [0]	train-rmse:0.48131	valid-rmse:0.48069
+2025-09-27 16:56:51,025 - INFO - [50]	train-rmse:0.47776	valid-rmse:0.47908
+2025-09-27 16:56:51,142 - INFO - [100]	train-rmse:0.47505	valid-rmse:0.47825
+2025-09-27 16:56:51,259 - INFO - [150]	train-rmse:0.47278	valid-rmse:0.47776
+2025-09-27 16:56:51,370 - INFO - [200]	train-rmse:0.47074	valid-rmse:0.47748
+2025-09-27 16:56:51,482 - INFO - [250]	train-rmse:0.46888	valid-rmse:0.47732
+2025-09-27 16:56:51,717 - INFO - [300]	train-rmse:0.46721	valid-rmse:0.47726
+2025-09-27 16:56:51,842 - INFO - [350]	train-rmse:0.46570	valid-rmse:0.47719
+2025-09-27 16:56:51,955 - INFO - [400]	train-rmse:0.46422	valid-rmse:0.47709
+2025-09-27 16:56:52,062 - INFO - [450]	train-rmse:0.46286	valid-rmse:0.47705
+2025-09-27 16:56:52,121 - INFO - [476]	train-rmse:0.46211	valid-rmse:0.47708
+2025-09-27 16:56:52,187 - INFO - Training fold 5/5...
+2025-09-27 16:56:52,231 - INFO - [0]	train-rmse:0.48153	valid-rmse:0.47981
+2025-09-27 16:56:52,344 - INFO - [50]	train-rmse:0.47789	valid-rmse:0.47848
+2025-09-27 16:56:52,453 - INFO - [100]	train-rmse:0.47516	valid-rmse:0.47775
+2025-09-27 16:56:52,565 - INFO - [150]	train-rmse:0.47285	valid-rmse:0.47739
+2025-09-27 16:56:52,683 - INFO - [200]	train-rmse:0.47085	valid-rmse:0.47721
+2025-09-27 16:56:52,961 - INFO - [250]	train-rmse:0.46898	valid-rmse:0.47708
+2025-09-27 16:56:53,121 - INFO - [300]	train-rmse:0.46724	valid-rmse:0.47706
+2025-09-27 16:56:53,227 - INFO - [337]	train-rmse:0.46608	valid-rmse:0.47708
+2025-09-27 16:56:53,288 - INFO - XGBoost CV RMSE:
+2025-09-27 16:56:53,288 - INFO - 0.47805678278771824
+2025-09-27 16:56:53,289 - INFO - Training RandomForest on full data...
+2025-09-27 16:57:11,738 - INFO - Predictions saved to song-dataset/xgboost-ensemble.csv
+2025-09-27 16:57:11,739 - INFO - Hyperparameters saved to song-dataset/xgboost-ensemble-params.txt
